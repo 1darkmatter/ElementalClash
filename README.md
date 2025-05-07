@@ -1,7 +1,8 @@
 # Elemental Clash v0.0.1
 
-**Authors:**  
-- David Magnabosco | PSU – DART 205  
+**Author:**  
+- David Magnabosco | PSU – DART 205
+**Supervised:**    
 - Dr. Greg O’Toole  
 
 **Date:** May 7, 2025  
