@@ -22,6 +22,10 @@
 
 ---
 
+<img src="screencap1.png" alt="Gameplay Screenshot" width="500"> 
+
+*In‑game view showing the action log, hand, and Goblin avatar.*
+
 ## Overview
 
 Elemental Clash is a turn‑based, deck‑building card battle game built with the Processing environment. You face off against the AI‑controlled **Green Goblin**, playing elemental cards—each with unique damage values, effects, and initiative. Manage your Health Points (HP) and Mana strategically to overcome status effects and claim victory!
@@ -69,11 +73,7 @@ Elemental Clash is a turn‑based, deck‑building card battle game built with 
 
 ---
 
-## Screenshots
-
-<img src="screencap1.png" alt="Gameplay Screenshot" width="500"> 
-
-*In‑game view showing the action log, hand, and Goblin avatar.*
+## Preview Game Interface
 
 ![Animated Demo](screencap2.gif)
 
