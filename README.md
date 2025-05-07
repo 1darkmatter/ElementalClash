@@ -71,6 +71,18 @@ Elemental Clash is a turn‑based, deck‑building card battle game built with 
 
 ## Getting Started
 
+---
+
+## Screenshots
+
+![Gameplay Screenshot](screencap1.png)  
+*In‑game view showing the action log, hand, and Goblin avatar.*
+
+![Animated Demo](screencap2.gif)  
+*A short GIF demonstration of a card play animation.*
+
+---
+
 ### Prerequisites
 
 - **Processing IDE** v4.x  
