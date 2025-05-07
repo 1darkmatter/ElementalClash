@@ -96,36 +96,32 @@ Elemental Clash is a turn‑based, deck‑building card battle game built with 
    [git clone https://github.com/yourname/ElementalClash.git](https://github.com/1darkmatter/ElementalClash.git)
 2. Move into your Processing sketchbook
 3. Copy the Elemental_Card_Game_v0.0.1 folder into your Processing sketchbook directory.
+4. Install the GIF Animation library
+5. Open Processing IDE
+6. Go to Sketch → Import Library… → Add Library…
+7. Search for GIF Animation by Extrapixel and install it
 
-Install the GIF Animation library
+**Running the Game**
 
-Open Processing IDE
+1. Open Processing IDE.
+2. Navigate to Elemental_Card_Game_v0.0.1/Main.pde.
+3. Click the > Run button.
 
-Go to Sketch → Import Library… → Add Library…
+**Gameplay**
 
-Search for GIF Animation by Extrapixel and install it
+1. Draw Phase
+2. Draw cards until you reach your hand limit.
 
-Running the Game
-Open Processing IDE.
-
-Navigate to Elemental_Card_Game_v0.0.1/Main.pde.
-
-Click the > Run button.
-
-Gameplay
-Draw Phase
-Draw cards until you reach your hand limit.
-
-Play Phase
+**Play Phase**
 Spend Mana to play cards—cards with higher initiative will act first.
 
-Resolve Phase
+**Resolve Phase**
 Effects execute in initiative order.
 
-Status Management
+**Status Management**
 Monitor and react to Freeze, Burn, and other status effects.
 
-Victory Condition
+**Victory Condition**
 Reduce the Green Goblin’s HP to zero before yours reaches zero.
 
 ## Project Structure
