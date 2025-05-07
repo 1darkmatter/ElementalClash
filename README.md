@@ -114,8 +114,9 @@ Monitor and react to Freeze, Burn, and other status effects.
 Victory Condition
 Reduce the Green Goblin’s HP to zero before yours reaches zero.
 
-Project Structure
-Elemental_Card_Game_v0.0.1/
+## Project Structure
+
+```Elemental_Card_Game_v0.0.1/
 ├── AssetLoader.pde         # Loads images, GIFs & fonts
 ├── Button.pde              # UI Button class
 ├── Card.pde                # Card class & rendering logic
@@ -126,6 +127,7 @@ Elemental_Card_Game_v0.0.1/
 │       │   └── XelythFieryFeast.png
 │       └── core/           # UI assets & character art
 │           ├── backcard_season1_goblins_skyfall.png
+│           ├── background.png
 │           └── character/
 │               └── goblin/ # Goblin expression images
 │                   ├── goblin_angry.png
@@ -137,6 +139,7 @@ Elemental_Card_Game_v0.0.1/
 ├── Player.pde              # Player class & mechanics
 ├── UIHelpers.pde           # Drawing utility functions
 └── sketch.properties       # Processing IDE configuration
+```
 
 Note: Backup folders have been excluded to keep the distribution clean.
 
