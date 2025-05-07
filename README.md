@@ -69,10 +69,6 @@ Elemental Clash is a turn‑based, deck‑building card battle game built with 
 
 ---
 
-## Getting Started
-
----
-
 ## Screenshots
 
 ![Gameplay Screenshot](screencap1.png)  
@@ -80,6 +76,10 @@ Elemental Clash is a turn‑based, deck‑building card battle game built with 
 
 ![Animated Demo](screencap2.gif)  
 *A short GIF demonstration of a card play animation.*
+
+---
+
+## Getting Started
 
 ---
 
