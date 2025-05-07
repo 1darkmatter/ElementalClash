@@ -79,10 +79,9 @@ Elemental Clash is a turn‑based, deck‑building card battle game built with 
 ### Installation
 
 1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/yourname/ElementalClash.git
-Move into your Processing sketchbook
-Copy the Elemental_Card_Game_v0.0.1 folder into your Processing sketchbook directory.
+   [git clone https://github.com/yourname/ElementalClash.git](https://github.com/1darkmatter/ElementalClash.git)
+2. Move into your Processing sketchbook
+3. Copy the Elemental_Card_Game_v0.0.1 folder into your Processing sketchbook directory.
 
 Install the GIF Animation library
 
