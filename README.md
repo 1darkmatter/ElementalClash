@@ -98,10 +98,12 @@ Elemental Clash is a turn‑based, deck‑building card battle game built with 
    [git clone https://github.com/yourname/ElementalClash.git](https://github.com/1darkmatter/ElementalClash.git)
 2. Move into your Processing sketchbook
 3. Copy the Elemental_Card_Game_v0.0.1 folder into your Processing sketchbook directory.
-4. Install the GIF Animation library
-5. Open Processing IDE
-6. Go to Sketch → Import Library… → Add Library…
-7. Search for GIF Animation by Extrapixel and install it
+
+**Install the GIF Animation library**
+
+1. Open Processing IDE
+2. Go to Sketch → Import Library… → Add Library…
+3. Search for GIF Animation by Extrapixel and install it
 
 **Running the Game**
 
